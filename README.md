@@ -1,14 +1,12 @@
-Here are some loose guidlines meant to give you an idea of what information we expect to find in each repository. Feel free to present your documentation in the most accessible/suitable order and style but you **must** include project data relating to the headings below, if relevant to your project. Also, include your final proposal in the top directory.
-
-[**A very good example**](https://github.com/Biological-Microsystems-Laboratory/micropipette)
-
-Consider using [GitHub for desktop](https://desktop.github.com/), the user interface and experience is so much better than the web version of Github, in my opinion.
-
-Lastly, follow [these](https://pages.github.com/) instructions if you want to style your github repository into a webpage like [so](https://biomakers.github.io/Example-repo/).
 
 ## Synopsis
 
-A summary of your project. This is the 150 word description from your proposal. Include your project banner and photos of team members.
+
+
+Human cells are grown in tissue culture for a variety of applications. The process of growing cells is quite tedious and requires checking the cells every day under the microscope to monitor the growth and any possible microbiological contamination. The cells are maintained in a medium close to physiological pH and a small amount of phenol red is added as an indicator. Waste products produced by the cells will slowly decrease the pH of the medium turning the solution orange and then yellow. Medium should be change before it turns into yellow colour as this is indicative of overgrowth. Also, some micro-organisms such us bacteria or yeast, can contaminate the culture and cause a change in pH, leading to a rapid change in colour from red to yellow. This change in colour implies a change in absorbance from 570nm (red) to 443nm (yellow) that could be exploited as a surrogate for cell growth.
+
+
+Include your project banner and photos of team members.
 
 ## Software
 
