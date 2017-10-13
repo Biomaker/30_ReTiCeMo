@@ -3,8 +3,8 @@
 ## Synopsis
 Human cells are grown in tissue culture for a variety of applications. The process of growing cells is quite tedious and requires checking the cells every day under the microscope to monitor the growth and any possible microbiological contamination. The cells are maintained in a medium close to physiological pH and a small amount of phenol red is added as an indicator. Waste products produced by the cells will slowly decrease the pH of the medium turning the solution orange and then yellow. Medium should be change before it turns into yellow colour as this is indicative of overgrowth. Also, some micro-organisms such us bacteria or yeast, can contaminate the culture and cause a change in pH, leading to a rapid change in colour from red to yellow. This change in colour implies a change in absorbance from 570nm (red) to 443nm (yellow) that could be exploited as a surrogate for cell growth.
 
-Team members:
-Maria Vias, Roberto Canales, Stephane Bellareau
+## Team members:
+
 
 ## Software
 
